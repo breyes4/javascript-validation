@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    // Object containing the validation rules
+    
 
     var myRules =
         {
@@ -16,7 +16,7 @@ $(document).ready(function () {
                 }
         };
 
-    // Object containing the error messages
+    
     var myMessages =
         {
             firstName:
